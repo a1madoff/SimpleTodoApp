@@ -32,8 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 Describe any challenges encountered while building the app:
 
-* While I was able to implement the code that was shown in the videos, I had trouble understanding the "why"—
-ie why we were using the tools we were using and how to decide when to use them in future.
+* While I was able to implement the code that was shown in the videos, I had trouble understanding the "why"—i.e. why we were using the tools we were using and how to decide when to use them in future.
 
 ## License
 
